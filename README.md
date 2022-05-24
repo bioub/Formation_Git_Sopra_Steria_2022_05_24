@@ -9,3 +9,8 @@ Formation Git pour Sopra Steria du 24/05/2022
 * git status
 * git add
 * git commit
+
+## Mememto des commandes de branches
+
+* git branch
+* git switch / checkout
